@@ -184,5 +184,5 @@ https://hni-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7dcf7551b11f552d33e43ebbe4000773
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-https://iplogger.com/2RHJj7.mpd
+https://iplogger.com/
 
