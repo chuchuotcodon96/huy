@@ -161,16 +161,16 @@ https://hni-vtt-002-livecdn-vthn2-vnd.vieon.vn/a24bc4428883ff76b36bbf02178b4484/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iSOD8bCwY3T3RvqF4fFifg", "kid":"X9rAUYedMDep0jmGFR5xbw" } ], "type":"temporary" } 
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-https://hni-vnpt-001-livecdn-vthn2-vnd.vieon.vn/2cc1d6d79a3b246d9055e27f57d5d24d/1655394736626/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+https://hni-vtt-001-livecdn-vthn2-vnd.vieon.vn/dbd4eacdf8f47a461d41830803042f8c/1656490113117/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fHdlYnxkODIzZjNmYTFhYjM2NjE0YzBjMWM2ZWU2MzY2ZGRlNHwyNjBmM2FhOC01ZTQ4LTQwMjUtYmVhNC1mZmVkZDcxMjk2MjR8bGl2ZXR2fEE1N0U5NXxhZGNhMGE3Zjc1MTM3MWM1N2Y1MzY0N2ZkMjk3NTMzZQ==
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.png" group-title="K+ VIEON",K+SPORT1 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vz3g6rR3Y5W4RUjWN75Zgg", "kid":"AJwgucFiNFCwPW9Xjn6RMA" } ], "type":"temporary" } 
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
@@ -180,8 +180,9 @@ https://hni-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7dcf7551b11f552d33e43ebbe4000773
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonYsgg", "kid":"PGQuhgq+PfqKyJcA93BvqA" } ], "type":"temporary" } 
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 https://iplogger.com/2RHJj7.mpd
+
