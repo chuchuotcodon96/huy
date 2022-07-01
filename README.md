@@ -100,12 +100,30 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #EXTINF:-1 tvg-id="klive1" group-title="MyK+" tvg-logo="", K+LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qyaf8HNkMiyKafQdFNY77g", "kid":"" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={  
+   "keys":[  
+      {  
+         "kty":"oct",
+         "k":"qyaf8HNkMiyKafQdFNY77g",
+         "kid":"Kq0OJtySSZyN7g5OQX3hdg"
+      }
+   ],
+   "type":"temporary"
+}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
 #EXTINF:-1 tvg-id="klive2" group-title="MyK+" tvg-logo="", K+LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZsrsrJL9KpZ+mONqZhkH4Q", "kid":"" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={  
+   "keys":[  
+      {  
+         "kty":"oct",
+         "k":"ZsrsrJL9KpZ+mONqZhkH4Q",
+         "kid":"+1OGP3b6R/+6jA4tOiyeCQ"
+      }
+   ],
+   "type":"temporary"
+}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
 #EXTINF:-1 tvg-id="klive3" group-title="MyK+" tvg-logo="", K+LIVE 3
