@@ -53,7 +53,7 @@ http://live.tv360.vn/manifest/K_PLUS_PC/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mex+HZ47wasaYfSnoctaxg", "kid":"3lAWxV34QM6rQfjSFlDMdA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+http://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/95GUa07r1jK0taiOesaYw", "kid":"whevMaKoRfOoxovBH16l5Q" } ], "type":"temporary" }
@@ -214,7 +214,7 @@ https://hni-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7dcf7551b11f552d33e43ebbe4000773
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonYsgg", "kid":"PGQuhgq+PfqKyJcA93BvqA" } ], "type":"temporary" } 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonYsgg", "kid":"PGQuhgq+PfqKyJcA93BvqA" } ], "type":"temporary" }
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
