@@ -179,7 +179,7 @@ https://kplus-livecdn.fptplay.net/Mjg2OTAwNXwxNDAyMjAyMmsxc3BvcnQyXzIwMDAuc3RyZW
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-https://hni-vtt-001-livecdn-vthn2-vnd.vieon.vn/9ae5e761119185178cf469f0113f146e/1656472768396/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fHdlYnxkODIzZjNmYTFhYjM2NjE0YzBjMWM2ZWU2MzY2ZGRlNHw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fEE1N0JGN3xmMzYyMDllZjI3MzU2OGY5NDdlNWJhNmZhYThhZjEzNw==
+https://hni-vtt-001-livecdn-vthn2-vnd.vieon.vn/69c18915f1d3f4f6426c061484dd9a05/1659587657469/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fHdlYnxkODIzZjNmYTFhYjM2NjE0YzBjMWM2ZWU2MzY2ZGRlNHw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDFBNEV8NGMzOGExZmNjZTMwYjRhMDBiZWRmZWFjM2NmYTRkOTE=
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/04/08/z4cfm1u3_ngang_klife.png" group-title="K+ VIEON",K+LIFE HD
 
