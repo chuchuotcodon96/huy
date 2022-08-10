@@ -1,5 +1,5 @@
 
-#EXTM3U by chú chuột cô đơn  và dtpro  url-tvg="http://gg.gg/epgvn03"
+#EXTM3U by chú chuột cô đơn  url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_640_360.png", K+ Cine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -164,11 +164,11 @@ https://kplus-livecdn.fptplay.net/chuchuotcodon/drmlive/14022022k1sport2_4000.st
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ FPT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6wJAWPjFSUihJNYjmv14Pg", "kid":"H+VCYoCpM1Ky1/Nv80Incg" } ], "type":"temporary" }
-https://smarttv-drm.fptplay.net/Mjg2OTAwNXwxNDAyMjAyMmsxc3BvcnQxYm94XzIwMDAuc3RyZWFtfHZpZXR0ZWx8MTY1MzEwNjg4MXwxNzEuMjM4LjEwMS4yNDJ8Mjg1MjdlMDkxMzAyYmMxYjIyYmEwYjEyMTU1NTAxNGI/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/chuchuotcodon96/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ FPT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg", K+ Sport2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1IXDO1r4SZEbO1/CEhiAmA", "kid":"9nOu7yTcP0umQ37zs3z6kg" } ], "type":"temporary" }
-https://kplus-livecdn.fptplay.net/chuchuotcodon/drmlive/14022022k1sport2_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/chuchuotcodon96/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png" group-title="K+ VIEON",K+CINE HD
