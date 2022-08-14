@@ -51,22 +51,22 @@ http://live.tv360.vn/manifest/K_PLUS_PM/master.mpd
 http://live.tv360.vn/manifest/K_PLUS_PC/master.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_480_270.png", K+ Cine HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s7739.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport1 Full HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_480_270.png", K+ Sport 2 Full HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ Myk+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_480_270.png", K+ Cine HD
