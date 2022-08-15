@@ -138,7 +138,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd3/default/i.mpd
 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhfjQLd6dvoSMvT2NgFX/Q", "kid":"J2F1T2YWNNSVYGMRmN0xIg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://kplus-livecdn.fptplay.net/chuchuotcodon/drmlive/14022022k1cine_4000.stream/manifest.mpd
+http://192.168.1.9:1996/udp/225.1.1.5:30120
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
