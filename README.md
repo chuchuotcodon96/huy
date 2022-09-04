@@ -2,7 +2,7 @@
 #TV360 by chú chuột cô đơn 
 #Vui Lòng Không Copy 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/3wmo0cu0_microsoftteams-imagead4211ad9f102f96787009b6899cd4c6_296_168.webp", K+ Cine HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/3wmo0cu0_microsoftteams-imagead4211ad9f102f96787009b6899cd4c6_296_168.webp", K+ Cine HD by chú chuột cô đơn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ODBz43/EUMEzPOZs7n/w2Q", "kid":"HDS+jXLrRaCeuZ7lMhKgpQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
