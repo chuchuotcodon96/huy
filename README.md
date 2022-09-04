@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
-#TV360 by TranViet chú chuột cô đơn 
+#TV360 by chú chuột cô đơn 
 #Vui Lòng Không Copy 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/3wmo0cu0_microsoftteams-imagead4211ad9f102f96787009b6899cd4c6_296_168.webp", K+ Cine HD
