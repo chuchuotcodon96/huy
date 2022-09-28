@@ -1,6 +1,3 @@
-chú chuột cô đơn 
-https://www.facebook.com/chuchuotcodon96
-
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 
@@ -182,24 +179,25 @@ https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2761754f661634d49560631198dd3122:3617e340b77a76fa1232f4f6360157fd
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD - Nguồn FPTPlay
-#https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1cine_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1cine_4000.stream/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2761754f661634d49560631198dd3122:3617e340b77a76fa1232f4f6360157fd
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD - Nguồn FPTPlay
-#https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a61a74420d336289a90f1b0dd0b6fab:6ee06cbfd2d2eb2d7f237a4bd0edb42b
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD - Nguồn FPTPlay
-#https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport1_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport1_4000.stream/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f673aeef24dc3f4ba6437ef3b37cfa92:d485c33b5af849911b3b5fc212188098
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn FPTPlay
-#https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport2_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
+
