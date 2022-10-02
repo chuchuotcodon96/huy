@@ -26,21 +26,21 @@ http://live-akm4.tv360.vn/manifest/K_PLUS_PC/master.mpd?hdnts=exp=1664706179~acl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J7FDG09vJTF4nfUZzbHh9Q", "kid":"im6sD6n5Qx+dDVnZky0QoQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.tv360.vn/manifest/K_PLUS_1_SD/master.mpd
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1664712302~acl=/*~hmac=4cf40277000dc47e2c3e0687dd7188e0cfea67eef1c3f35b48f51279a487c685
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_640_360.png", K+ Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ONXUTM/BEWfXZ6q5a0aZYg", "kid":"T0+xk9gxRD6vCQJYnGK9kg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1664714466~acl=/*~hmac=bfd6d0ca7502942626a7c7d91616d89f656f21ccf7181a32c2e6dd7d4f29efde
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+ Sport1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bjUl9uzP3LXeMMkuA0RTEA", "kid":"f8Fal2eeRV+mlRumcuZhUQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1664714701~acl=/*~hmac=17e7738347c8878f310e8d51be675464dddfca62341612ba9ac35c10bd4b7c18
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png", K+ Sport2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XblobMwmRx/Z7NCHdeVpBw", "kid":"87+txM+eR/SddLBnp4Y7HA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1664714866~acl=/*~hmac=477089319260168e60cc0b2f488e13b3e7504935f267ceaf8c920ba7a09144ed
 
 
