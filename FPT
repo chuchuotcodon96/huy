@@ -368,6 +368,8 @@ udp://@225.1.1.58:30120
 udp://@225.1.1.95:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FEED 16 SPORTS
 udp://@225.1.1.94:30120
+#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FEED 17 SPORT
+udp://@225.1.1.101:30120
 #-------------------DRM-------------------#
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/4DqLcOH.png",K+1 HD (DRM)
 udp://@225.1.1.5:30120
