@@ -1,0 +1,9 @@
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD 25 FPS
+http://chuchuotcodon96.duckdns.org:1996/udp/225.1.4.2:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV3 HD 25 FPS
+http://chuchuotcodon96.duckdns.org:1996/udp/225.1.4.3:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV5 HD 25 FPS
+http://chuchuotcodon96.duckdns.org:1996/udp/225.1.4.5:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV Cần THƠ  HD 25 FPS
+http://chuchuotcodon96.duckdns.org:1996/udp/225.1.4.6:30120
+
