@@ -209,13 +209,13 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTPCT HD _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THĐT1 _ TH Đồng Tháp
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THĐT1 _ TH Đồng Tháp HD
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THĐT2 Miền Tây
+#EXTINF:-1 group-title="Địa phương (HD)",THĐT2 Miền Tây HD
 udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="Địa phương (hD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",YTV _ TH Yên Bái HD 
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",YTV _ TH Yên Bái HD 
 udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương (hD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV _ TH Lai Châu HD 
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV _ TH Lai Châu HD 
 udp://@225.1.2.36:30120
 #EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV _ TH Sơn La
 udp://@225.1.1.98:30120
