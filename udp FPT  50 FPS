@@ -293,9 +293,9 @@ udp://@225.1.1.197:30120
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel HD
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",Dreamworks HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",Dreamworks HD
 udp://@225.1.1.136:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DW HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://mytv.com.vn/upload/channel/136.png",DW HD
 udp://@225.1.1.46:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/CVxACz9.png",KIX HD
 udp://@225.1.2.144:30120
