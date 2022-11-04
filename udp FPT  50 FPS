@@ -101,6 +101,11 @@ udp://@225.1.2.148:30120
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="ttxvnhd",TTXVN - Thông Tấn Xã VN HD
 udp://@225.1.1.43:30120
+#-------------------HBO-------------------#
+#EXTINF:-1 group-title="HBO" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="HBO" tvg-id="hbohd" tvg-logo="https://static-stage.tv24.vn/channel/72/HBOHD.png",HBO HD
+udp://@225.1.4.90:30120
 #-------------------Other-------------------#
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi",YouTV
 udp://@225.1.1.207:30120
@@ -282,8 +287,6 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="HBO" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax HD
-udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png",Da Vinci HD
 udp://@225.1.1.197:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia HD
@@ -294,8 +297,6 @@ udp://@225.1.1.238:30120
 udp://@225.1.1.136:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DW HD
 udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="HBO" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO HD
-udp://@225.1.4.90:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/CVxACz9.png",KIX HD
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC HD
