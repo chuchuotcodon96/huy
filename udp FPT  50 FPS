@@ -275,11 +275,11 @@ udp://@225.1.1.198:30120
 udp://@225.1.2.225:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV HD
 udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BBC CbeeBies HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1280px-CBeebies_HD.svg.png",BBC CbeeBies HD
 udp://@225.1.1.134:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth HD
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BOOMERANG HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg",BOOMERANG HD
 udp://@225.1.1.138:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/BaZuGNL.png",BLUE ANT ENTERTAINMENT HD
 udp://@225.1.1.203:30120
@@ -287,7 +287,7 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png",Da Vinci HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png",Da Vinci HD
 udp://@225.1.1.197:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia HD
 udp://@225.1.2.223:30120
