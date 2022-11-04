@@ -104,7 +104,7 @@ udp://@225.1.1.43:30120
 #-------------------Other-------------------#
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi",YouTV
 udp://@225.1.1.207:30120
-#EXTINF:-1 group-title="Other" tvg-logo="https://imgur.com/qzEFit1",MTV
+#EXTINF:-1 group-title="Other" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV
 udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/SCTV6_logo_2008.png/revision/latest?cb=20211211011131&path-prefix=vi",SCTV6 HD 
 udp://@225.1.1.188:30120
