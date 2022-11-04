@@ -109,85 +109,85 @@ udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/SCTV6_logo_2008.png/revision/latest?cb=20211211011131&path-prefix=vi",SCTV6 HD 
 udp://@225.1.1.188:30120
 #-------------------Địa phương------------------#
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THLC _ TH Lào Cai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THLC _ TH Lào Cai HD 
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐTV HD _ TH Điện Biên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐTV HD _ TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV HD _ TH Tuyên Quang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV HD _ TH Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TN1 HD _ TH Thái Nguyên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TN1 HD _ TH Thái Nguyễn
 udp://@225.1.2.179:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HBTV HD _ TH Hòa Bình (HD 4Mbps)
 udp://@225.1.2.168:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTV HD _ TH Phú Thọ
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTV HD _ TH Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BGTV HD _ TH Bắc Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BGTV HD _ TH Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương (HD)"  tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LSTV HD _ TH Lạng Sơn
+#EXTINF:-1 group-title="Địa phương"  tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LSTV HD _ TH Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CRTV HD _ TH Cao Bằng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CRTV HD _ TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBK HD _ TH Bắc Kạn (HD 4Mbps)
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV1 HD _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV1 HD _ TH Quảng Ninh
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV _ TH Bắc Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_bacninh.png",BTV HD _ TH Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/GhJ0JTH.png",Hà Nội 1 HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/GhJ0JTH.png",Hà Nội 1 HD
 udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/OogZeGW.png",Hà Nội 2 HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/OogZeGW.png",Hà Nội 2 HD
 udp://@225.1.1.125:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THP HD _ TH TP. Hải Phòng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Ninh Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Nghệ An
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Nghệ An
 udp://@225.1.2.183:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HTTV HD _ TH Hà Tĩnh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HTTV HD _ TH Hà Tĩnh
 udp://@225.1.1.75:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QRTV _ TH Quảng Trị
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QRTV _ TH Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DaNangTV1 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DaNangTV1 HD _ TH TP. Đà Nẵng
 udp://@225.1.1.147:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DaNangTV2 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DaNangTV2 HD _ TH TP. Đà Nẵng
 udp://@225.1.1.146:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QRT HD _ TH Quảng Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QRT HD _ TH Quảng Nam
 udp://@225.1.2.50:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTQ _ TH Quảng Ngãi
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTQ _ TH Quảng Ngãi
 udp://@225.1.2.174:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV _ TH Bình Định
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV _ TH Bình Định HD
 udp://@225.1.1.145:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTP _ TH Phú Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTP HD _ TH Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KTV HD _ TH Khánh Hòa
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KTV HD _ TH Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV HD _ TH Bình Thuận
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV HD _ TH Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KRT _ TH Kon Tum
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KRT HD_ TH Kon Tum
 udp://@225.1.1.36:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THGL _ TH Gia Lai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THGL HD_ TH Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV HD _ TH Lâm Đồng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV HD _ TH Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV1 HD _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV1 HD _ TH Bình Dương
 udp://@225.1.1.150:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV2 HD _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV2 HD _ TH Bình Dương
 udp://@225.1.1.149:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV3 HD _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV3 HD _ TH Bình Dương
 udp://@225.1.2.22:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV4 HD _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV4 HD _ TH Bình Dương
 udp://@225.1.1.29:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV9 An Viên HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV9 An Viên HD
 udp://@225.1.2.189:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐNRTV1 HD _ TH Đồng Nai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐNRTV1 HD _ TH Đồng Nai
 udp://@225.1.1.152:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐNRTV2 HD _ TH Đồng Nai
 udp://@225.1.1.151:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV11 _ TH Tây Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV11 _ TH Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BRT HD _ TH Bà Rịa Vũng Tàu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BRT HD _ TH Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTG HD _ TH Tiền Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTG HD _ TH Tiền Giang
 udp://@225.1.2.170:30120
 #EXTINF:-1 group-title="THVL" tvg-logo="https://memesspotify.com/wp-content/uploads/2022/04/truyen-hinh-truc-tiep-vinh-long-1.png",THVL1 HD _ TH Vĩnh Long
 udp://@225.1.1.155:30120
@@ -197,67 +197,67 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 group-title="THVL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_THVL4_HD.jpg",THVL4 HD _ TH Vĩnh Long
 udp://@225.1.2.25:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTV HD _ TH Trà Vinh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTV HD _ TH Trà Vinh
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV _ TH Hậu Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV HD _ TH Hậu Giang
 udp://@225.1.1.157:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KG1 _ TH Kiên Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KG1 HD_ TH Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BLTV HD _ TH Bạc Liêu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BLTV HD _ TH Bạc Liêu
 udp://@225.1.1.61:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CTV HD _ TH Cà Mau
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CTV HD _ TH Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTPCT HD _ TH TP. Cần Thơ
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTPCT HD _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THĐT1 _ TH Đồng Tháp HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THĐT1 _ TH Đồng Tháp HD
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THĐT2 Miền Tây HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/TH%C4%90T2.png/revision/latest?cb=20210826111903&path-prefix=vi",THĐT2 Miền Tây HD
 udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",YTV _ TH Yên Bái HD 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",YTV _ TH Yên Bái HD 
 udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV _ TH Lai Châu HD 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV _ TH Lai Châu HD 
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV _ TH Sơn La
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV _ TH Hà Giang HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV _ TH Hà Giang HD
 udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THHN _ TH Hà Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THD _ TH Hải Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THD _ TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HY _ TH Hưng Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Nam Định
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBTV _ TH Thái Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBTV _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",VP _ TH Vĩnh Phúc
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",VP _ TH Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV _ TH Thanh Hóa
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QBTV _ TH Quảng Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QBTV _ TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TRT _ TH Thừa Thiên Huế
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Ninh Thuận
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DRT _ TH Đắk Lắk
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DRT _ TH Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV1 _ TH Bình Phước
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV2 _ TH Bình Phước
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV6 _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LA34 _ TH Long An
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ATV _ TH An Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THBT _ TH Bến Tre
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THBT _ TH Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV1 _ TH Sóc Trăng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
