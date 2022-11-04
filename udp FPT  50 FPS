@@ -267,7 +267,7 @@ udp://@225.1.1.159:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",Animax HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/Sony_Animax_HD_Taiwan.png/revision/latest?cb=20220317132816&path-prefix=vi",Animax HD
 udp://@225.1.1.135:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Network HD
 udp://@225.1.1.198:30120
@@ -321,17 +321,17 @@ udp://@225.1.1.142:30120
 udp://@225.1.2.21:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="babyfirst" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",Baby First
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="babyfirst" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/Babyfirst_logo_2019.png/revision/latest?cb=20211127035956&path-prefix=vi",Baby First
 udp://@225.1.1.137:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC WORLD NEWS HD
 udp://@225.1.2.74:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/eyzGJhD.png",CNA HD
 udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CNBC
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/CNBC-Symbol.png",CNBC
 udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/YTlPk6Q.png",FRANCE 24 HD
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",KBS WORLD HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",KBS WORLD HD
 udp://@225.1.1.196:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5MONDE ASIE HD
 udp://@225.1.1.200:30120
