@@ -301,7 +301,7 @@ udp://@225.1.1.46:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC HD
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NAT GEO WILD HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO WILD HD
 udp://@225.1.1.211:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle HD
 udp://@225.1.2.52:30120
