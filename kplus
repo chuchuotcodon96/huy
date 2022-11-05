@@ -26,7 +26,7 @@ http://live-akm4.tv360.vn/manifest/K_PLUS_PC/master.mpd?hdnts=exp=1664706179~acl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J7FDG09vJTF4nfUZzbHh9Q", "kid":"im6sD6n5Qx+dDVnZky0QoQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667653572~acl=/*~hmac=9259b9e23ca85043da6abe0efde69d668cc4f23dea95dbfa2c5a5dcee9481c48
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667653572~acl=/*~hmac=9259b9e23ca85043da6abe0efde69d668cc4f23dea95dbfa2c5a5dcee9481c48
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_640_360.png", K+ Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ONXUTM/BEWfXZ6q5a0aZYg", "kid":"T0+xk9gxRD6vCQJYnGK9kg" } ], "type":"temporary" }
