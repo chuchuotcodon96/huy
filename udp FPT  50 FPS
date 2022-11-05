@@ -128,13 +128,13 @@ udp://@225.1.2.168:30120
 udp://@225.1.2.165:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png?v=3.61",BGTV HD _ TH Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương"  tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LSTV HD _ TH Lạng Sơn
+#EXTINF:-1 group-title="Địa phương"  tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/554116-Lang-Son.png",LSTV HD _ TH Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",CRTV HD _ TH Cao Bằng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/CRTV_1993.png/revision/latest?cb=20210106142710&path-prefix=vi",CRTV HD _ TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TBK.png/revision/latest?cb=20210823053428&path-prefix=vi",TBK HD _ TH Bắc Kạn (HD 4Mbps)
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV1 HD _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu1.png",QTV1 HD _ TH Quảng Ninh
 udp://@225.1.2.181:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_bacninh.png",BTV HD _ TH Bắc Ninh
 udp://@225.1.1.40:30120
@@ -226,7 +226,7 @@ udp://@225.1.2.36:30120
 udp://@225.1.1.98:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV _ TH Hà Giang HD
 udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu2.png",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
