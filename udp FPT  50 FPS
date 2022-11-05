@@ -114,19 +114,19 @@ udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/SCTV6_logo_2008.png/revision/latest?cb=20211211011131&path-prefix=vi",SCTV6 HD 
 udp://@225.1.1.188:30120
 #-------------------Địa phương------------------#
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THLC _ TH Lào Cai HD 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/THLC_HD_L%C3%A0o_Cai_2022.png/revision/latest/scale-to-width-down/1562?cb=20220414101947&path-prefix=vi",THLC _ TH Lào Cai HD 
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ĐTV HD _ TH Điện Biên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/%C4%90TV_HD_logo_Tet_2020.png/revision/latest/scale-to-width-down/200?cb=20220502131808&path-prefix=vi",ĐTV HD _ TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV HD _ TH Tuyên Quang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_tuyenquang.png",TTV HD _ TH Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TN1 HD _ TH Thái Nguyễn
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Thainguyentv.png",TN1 HD _ TH Thái Nguyễn
 udp://@225.1.2.179:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi",HBTV HD _ TH Hòa Bình (HD 4Mbps)
 udp://@225.1.2.168:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",PTV HD _ TH Phú Thọ
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/PTV_Phu_Tho_Old.png/revision/latest?cb=20210823105815&path-prefix=vi",PTV HD _ TH Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BGTV HD _ TH Bắc Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png?v=3.61",BGTV HD _ TH Bắc Giang
 udp://@225.1.1.164:30120
 #EXTINF:-1 group-title="Địa phương"  tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LSTV HD _ TH Lạng Sơn
 udp://@225.1.1.160:30120
