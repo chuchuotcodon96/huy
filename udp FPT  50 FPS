@@ -250,19 +250,19 @@ udp://@225.1.1.161:30120
 udp://@225.1.2.178:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DRT _ TH Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV1 _ TH Bình Phước
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/BPTV1_2012-2016.png/revision/latest?cb=20200920022608&path-prefix=vi",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BPTV2 _ TH Bình Phước
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/BPTV2_1997.png/revision/latest?cb=20211222105331&path-prefix=vi",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",BTV6 _ TH Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/BTV6.png/revision/latest?cb=20210722032245&path-prefix=vi",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LA34 _ TH Long An
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/LA34_Long_An_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20220505065430&path-prefix=vi",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",ATV _ TH An Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/06/638993-Angiang.png",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THBT _ TH Bến Tre
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://thbt.vn/public/Home/images/THBT_logo2021.png",THBT _ TH Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV1 _ TH Sóc Trăng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/STV1_logo_2017_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20220625032257&path-prefix=vi",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
