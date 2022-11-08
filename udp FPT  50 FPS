@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 05/11/2022 by chú chuột cô đơn
+#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 08/11/2022 by chú chuột cô đơn
+#EXTINF:-1 group-title="hướng dẫn" tvg-logo="https://www.quangkv.com/ZjKc8Aj__400x400.jpg?v=rXm8WLKl94zN3ompVJc82J8arLYYiMdgm15ci5vCGlU",kênh hướng dẫn 
+https://dl.dropboxusercontent.com/s/3n6a8hv1hd6qo12/udpxy_quangkv.mp4?dl=0
 #EXTINF:-1 group-title="world cup 2022" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD By chú chuột cô đơn 
 udp://@225.1.2.13:30120
 #EXTINF:-1 group-title="world cup 2022" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 HD By chú chuột cô đơn 
@@ -10,7 +12,7 @@ udp://@225.1.2.245:30120
 #-------------------VTV-------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.khungthanh.com/files/tv/vtv2.png",VTV2 HD 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi",VTV2 HD 
 udp://@225.1.2.13:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/14/vivbg96n_vtv3-hd_logo_468_134.png",VTV3 HD
 udp://@225.1.2.247:30120
@@ -90,6 +92,15 @@ udp://@225.1.1.174:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ HD
 udp://@225.1.1.181:30120
+#..............THVL...........#
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/442964-THVL-1HD-460x260.png", Vĩnh Long 1 HD 
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/968605-THVL-2HD-460x260.png", Vĩnh Long 2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3HD 
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
+udp://@225.1.2.25:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV HD
 udp://@225.1.2.169:30120
@@ -194,14 +205,6 @@ udp://@225.1.1.130:30120
 udp://@225.1.2.175:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTG HD _ TH Tiền Giang
 udp://@225.1.2.170:30120
-#EXTINF:-1 group-title="THVL" tvg-logo="https://memesspotify.com/wp-content/uploads/2022/04/truyen-hinh-truc-tiep-vinh-long-1.png",THVL1 HD _ TH Vĩnh Long
-udp://@225.1.1.155:30120
-#EXTINF:-1 group-title="THVL" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/968605-THVL-2HD-460x260.png",THVL2 HD _ TH Vĩnh Long
-udp://@225.1.1.154:30120
-#EXTINF:-1 group-title="THVL" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_165657386388.png",THVL3 HD _ TH Vĩnh Long
-udp://@225.1.1.235:30120
-#EXTINF:-1 group-title="THVL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_THVL4_HD.jpg",THVL4 HD _ TH Vĩnh Long
-udp://@225.1.2.25:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THTV HD _ TH Trà Vinh
 udp://@225.1.2.172:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV HD _ TH Hậu Giang
@@ -218,37 +221,37 @@ udp://@225.1.1.132:30120
 udp://@225.1.1.163:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/TH%C4%90T2.png/revision/latest?cb=20210826111903&path-prefix=vi",THĐT2 Miền Tây HD
 udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",YTV _ TH Yên Bái HD 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Logo_YTV_HD_Y%C3%AAn_B%C3%A1i_%28B%E1%BA%A3n_2%2C_c%C3%B3_vi%E1%BB%81n_tr%E1%BA%AFng%29.png/revision/latest?cb=20211027113013&path-prefix=vi",YTV _ TH Yên Bái HD 
 udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",LTV _ TH Lai Châu HD 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/LTV_lai_chau_alt.png/revision/latest?cb=20210716102428&path-prefix=vi",LTV _ TH Lai Châu HD 
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",STV _ TH Sơn La
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/STV_S%C6%A1n_La_c%C5%A9.png/revision/latest?cb=20201020014854&path-prefix=vi",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HGTV _ TH Hà Giang HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/Logo_HGTV_H%C3%A0_Giang_%282022%29.png/revision/latest/scale-to-width-down/1200?cb=20220326031038&path-prefix=vi",HGTV _ TH Hà Giang HD
 udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://media.baoquangninh.com.vn/upload/files/logo/logotrangchu2.png",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/QTV3.png/revision/latest?cb=20210529101536&path-prefix=vi",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THHN _ TH Hà Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/HNNTV.png/revision/latest?cb=20210717005823&path-prefix=vi",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THD _ TH Hải Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THD.png/revision/latest?cb=20210626023548&path-prefix=vi",THD _ TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",HY _ TH Hưng Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/HYTV_logo_1997.png/revision/latest?cb=20210831002524&path-prefix=vi",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Nam Định
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/NTV_logo_2015_%28Nam_Dinh%29.png/revision/latest?cb=20210717124833&path-prefix=vi",NTV _ TH Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TBTV _ TH Thái Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Th%C3%A1i_B%C3%ACnh_-_TBTV.svg/2560px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Th%C3%A1i_B%C3%ACnh_-_TBTV.svg.png",TBTV _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",VP _ TH Vĩnh Phúc
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/VP_logo.png/revision/latest?cb=20210418005413&path-prefix=vi",VP _ TH Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TTV _ TH Thanh Hóa
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",QBTV _ TH Quảng Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/QBTV_logo_2019.png",QBTV _ TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",TRT _ TH Thừa Thiên Huế
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/TRT_logo_1999_%28Hue%29.png/revision/latest?cb=20210717095613&path-prefix=vi",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV _ TH Ninh Thuận
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/NTV_logo_2015_%28Nam_Dinh%29.png/revision/latest?cb=20210717124833&path-prefix=vi",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",DRT _ TH Đắk Lắk
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/04/684797-DRT.png",DRT _ TH Đắk Lắk
 udp://@225.1.1.64:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/BPTV1_2012-2016.png/revision/latest?cb=20200920022608&path-prefix=vi",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
