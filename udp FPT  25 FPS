@@ -13,7 +13,7 @@ udp://@225.1.4.4:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 HD
 udp://@225.1.4.5:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ HD
-udp://@225.1.4.6:30120
+udp://@225.1.4.108:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7 HD
 udp://@225.1.4.10:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 HD
