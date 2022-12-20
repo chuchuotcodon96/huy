@@ -1,14 +1,6 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 23/11/2022 by chú chuột cô đơn
-#EXTINF:-1 group-title="hướng dẫn" tvg-logo="https://www.quangkv.com/ZjKc8Aj__400x400.jpg?v=rXm8WLKl94zN3ompVJc82J8arLYYiMdgm15ci5vCGlU",hướng dẫn cấu hình udpxy trên Android link tải https://hqth.me/udpxy
+#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 20/12/2022 by chú chuột cô đơn
+#EXTINF:-1 group-title="hướng dẫn" tvg-logo="https://www.quangkv.com/ZjKc8Aj__400x400.jpg?v=rXm8WLKl94zN3ompVJc82J8arLYYiMdgm15ci5vCGlU",hướng dẫn cấu hình udpxy tải https://hqth.me/udpxy
 https://dl.dropboxusercontent.com/s/3n6a8hv1hd6qo12/udpxy_quangkv.mp4?dl=0
-#EXTINF:-1 tvg-id="vtv2hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD By chú chuột cô đơn 
-udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 HD By chú chuột cô đơn 
-udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 HD By chú chuột cô đơn 
-udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="world cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV  Cần THƠ  HD By chú chuột cô đơn 
-udp://@225.1.2.245:30120
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD
 udp://@225.1.2.249:30120
@@ -177,6 +169,12 @@ udp://@225.1.2.244:30120
 udp://@225.1.1.123:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT quảng cáo 2
 udp://@225.1.1.127:30120
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT quảng cáo 3
+udp://@225.1.1.66:30120
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT quảng cáo 4
+udp://@225.1.1.121:30120
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT Event
+udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 1
 udp://@225.1.1.10:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 2
