@@ -38,6 +38,14 @@ udp://225.1.2.171:30120
 udp://@225.1.1.22:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/antv.png" group-title="VTV",ANTV HD
 udp://225.1.2.169:30120
+#EXTINF:-1 group-title="K+",K+ Cine HD (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="K+",K+ Life HD (DRM)
+udp://@225.1.1.6:30120
+#EXTINF:-1 group-title="K+",K+ Sports 1 HD (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="K+",K+ Sports 2 HD (DRM)
+udp://@225.1.1.77:30120
 
 #EXTINF:-1 tvg-id="Ha Noi 1" tvg-logo="http://i.imgur.com/kFSFBHp.png" group-title="Hanoicab",Ha Noi 1 HD
 udp://@225.1.2.186:30120
@@ -412,3 +420,4 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.163:30120
 #EXTINF:-1 tvg-id="Ca Mau" tvg-logo="http://i.imgur.com/YAGwIeW.png" group-title="DIA PHUONG",Cà Mau
 udp://@225.1.1.104:30120
+
