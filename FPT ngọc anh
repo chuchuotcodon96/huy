@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U url-tvg="https://bit.ly/epgviet"
 #EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://i.imgur.com/m8WU8BL.png" group-title="VTV",VTV1 HD
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png" group-title="VTV",VTV2 HD
@@ -46,6 +45,8 @@ udp://@225.1.1.6:30120
 udp://@225.1.1.73:30120
 #EXTINF:-1 group-title="K+",K+ Sports 2 HD (DRM)
 udp://@225.1.1.77:30120
+#EXTINF:-1 group-title="K+",K+ Kids HD (DRM)
+udp://@225.1.1.76:30120
 
 #EXTINF:-1 tvg-id="Ha Noi 1" tvg-logo="http://i.imgur.com/kFSFBHp.png" group-title="Hanoicab",Ha Noi 1 HD
 udp://@225.1.2.186:30120
