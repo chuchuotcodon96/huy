@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 31/12/2022 by chú chuột cô đơn
+#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 29/01/2023 by chú chuột cô đơn
 #EXTINF:-1 group-title="hướng dẫn" tvg-logo="https://www.quangkv.com/ZjKc8Aj__400x400.jpg?v=rXm8WLKl94zN3ompVJc82J8arLYYiMdgm15ci5vCGlU",hướng dẫn cấu hình udpxy tải https://hqth.me/udpxy
 https://dl.dropboxusercontent.com/s/3n6a8hv1hd6qo12/udpxy_quangkv.mp4?dl=0
 #-------------------VTV-------------------#
@@ -12,8 +12,8 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://i.imgur.com/6s6sIqT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ 
-udp://@225.1.1.108:30120
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ 
+udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ HD
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/VTV7_HD-0.png/revision/latest?cb=20200401224019&path-prefix=vi",VTV7 HD
