@@ -196,9 +196,9 @@ udp://@225.1.1.100:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 10
 udp://@225.1.1.101:30120
 #EXTINF:-1 tvg-id="vtv5tnhhb" group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 11
-udp://@225.1.1.5:30120
+udp://@225.1.1.97:30120
 #EXTINF:-1 tvg-id="vtv5tnhhb" group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 12
-udp://@225.1.1.6:30120
+udp://@225.1.1.98:30120
 
 #-------------------Địa phương------------------#
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/THLC_HD_L%C3%A0o_Cai_2022.png/revision/latest/scale-to-width-down/1562?cb=20220414101947&path-prefix=vi",Lào Cai
