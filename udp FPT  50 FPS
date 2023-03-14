@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 10/03/2023 by chú chuột cô đơn
+#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT cập nhật ngày 14/03/2023 by chú chuột cô đơn
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD
 udp://@225.1.2.249:30120
